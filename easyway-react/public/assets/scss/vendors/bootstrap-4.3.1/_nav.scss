@@ -9,6 +9,7 @@
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  // background-color: rgb(187, 187, 249);
 }
 
 .nav-link {
@@ -17,6 +18,8 @@
 
   @include hover-focus {
     text-decoration: none;
+    // color: black;
+    // background-color: blue;
   }
 
   // Disabled state lightens text
