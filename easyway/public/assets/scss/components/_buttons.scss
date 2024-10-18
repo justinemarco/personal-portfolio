@@ -5,8 +5,8 @@
 		display: block;
 		margin: 0 5px;
 		@include circle(40);
-		border: 2px solid $primary;
-		color: $primary;
+		border: 2px solid $blue;
+		color: $blue;
 		text-align: center;
 		line-height: 40px;
 		@include custom-transition(all,.3);
@@ -14,7 +14,7 @@
 
 		&:hover {
 			background: $primary;
-			color: $white;
+			color: $blue;
 		}
 	}
 }
