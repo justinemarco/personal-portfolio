@@ -82,7 +82,7 @@ function App() {
             <p>Project Manager</p>
             <div className="buttons pt-3">
               <button className="btn btn-primary rounded">HIRE ME</button>
-              <a href="public\Marco_Resume.pdf" download><button className="btn btn-dark rounded" href="public\assets\resume\Marco_Resume.pdf" download>DOWNLOAD RESUME</button></a>
+              <a href="public\Marco_Resume.pdf" download><button className="btn btn-dark rounded">DOWNLOAD RESUME</button></a>
             </div>
             <div className="socials mt-4">
               <a className="social-item" href="https://web.facebook.com/justinejynne">
